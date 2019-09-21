@@ -1,0 +1,53 @@
+{
+ "Name" : "Muhamad Lutfi Ramdani",
+ "Age"  : 22,
+ "Address": "Jalan Manteron 22A, Sukaluyu, Cibeunying Kaler, Bandung",
+ "Hobbies":{
+  "1":"Fotografi",
+  "2":"Skateboarder"
+ },
+   "Menikah": false,
+   "Riwayat Pendidikan":[
+     {
+       "SMP": "SMP-T Riyadlul Ulum Waddawah",
+       "Masuk":"2009",
+       "Lulus":"2012",
+       "Jurusan": null
+     },
+     {
+       "SMA": "SMA-T Riyadlul Ulum",
+       "Masuk": "2012",
+       "Lulus": "2015",
+       "Jurusan":"IPA"
+     },
+     {
+       "Universitas": "Universitas Padjadjaran",
+       "Masuk": "2015",
+       "Lulus": "2019",
+       "Jurusan":"Fisika"
+     }
+     ],
+    "Skill" : [
+      {
+        "Nama":"Electronic Circuit Design",
+        "Level": "Advance"
+      },
+      {
+        "Nama":"PCB Designer",
+        "Level":"Advance"
+      },
+      {
+        "Nama":"Digial Signal Processing",
+        "Level":"Advance"
+      },
+      {
+        "Nama":"Programming in C",
+        "Level":"Advance"
+      },
+      {
+        "Nama":"Programming in Java",
+        "Level": "Beginer"
+      },
+      {"Interest in Coding": true}
+      ]
+}
